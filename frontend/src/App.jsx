@@ -6,7 +6,7 @@
 // import Login from "./pages/Login";
 // import { ToastContainer } from "react-toastify";
 // import "react-toastify/dist/ReactToastify.css";
-// import useGetCurrentUser from "./customhooks/usegetCurrentUser";
+// import useGetCurrentUser from "./customhooks/useGetCurrentUser";
 // import { useSelector } from "react-redux";
 // import Profile from "./pages/Profile";
 // import ForgetPassword from "./pages/ForgetPassword"; // ← FILE NAME SAME
